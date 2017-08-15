@@ -1,5 +1,5 @@
-import fresh_tomatoes
-import media
+import fresh_tomatoes   #Imports the fresh_tomatoes.py file and its contents
+import media            #Imports the media.py file and its contents
 
 #Below are my favorite movie instances - all related to Math & Fight
 
@@ -33,5 +33,8 @@ gladiator = media.Movie("Gladiator",
                         "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg",
                         "https://www.youtube.com/watch?v=owK1qxDselE")
 
+# List of my favorite movie objects
 movies = [beautiful_mind, good_will_hunting, rain_man, the_imitation_game, october_sky, gladiator]
+
+# Generates My Favorite Movies website
 fresh_tomatoes.open_movies_page(movies)
