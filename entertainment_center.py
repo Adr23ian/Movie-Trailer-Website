@@ -1,5 +1,5 @@
-import fresh_tomatoes   #Imports the fresh_tomatoes.py file and its contents
-import media            #Imports the media.py file and its contents
+import fresh_tomatoes   # Imports the fresh_tomatoes.py file and its contents
+import media            # Imports the media.py file and its contents
 
 #Below are my favorite movie instances - all related to Math & Fight
 
