@@ -1,4 +1,4 @@
-# Full Stack Developer Nanodegree - Project 1: Movie Trailer Website
+# Full Stack Web Developer Nanodegree - Project 1: Movie Trailer Website
 #### By Adrian Martinez
 
 ## Detail of Steps to Run Program
